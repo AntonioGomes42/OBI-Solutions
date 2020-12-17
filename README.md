@@ -7,12 +7,12 @@ A 1ª questão é "Gincana" da OBI-2016, link da questão:
 
 A 2ª questão é "Fuga" da OBI-2016 2ª fase, link da questão:
 
-`https://neps.academy/problem/5`
+`https://neps.academy/exercise/5`
 
 A 3ª questão é "Poquemao" da OBI-2016 2ª fase, Nível 2, link da questão:
 
-`https://neps.academy/problem/8`
+`https://neps.academy/exercise/8`
 
 A 4ª questão é "Bondinho" da OBI-2017, 1ª fase, Nível Júnior, link da questão:
 
-`https://neps.academy/problem/13`
+`https://neps.academy/exercise/13`
