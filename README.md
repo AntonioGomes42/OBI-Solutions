@@ -17,8 +17,10 @@ A 4ª questão é "Bondinho" da OBI-2017, 1ª fase, Nível Júnior, link da ques
 
 `https://neps.academy/exercise/13` - (Java)
 
-A 5ª questão é "Medalhas" OBI 2016, Segunda Fase, Nível Júnior, link da questão:
+A 5ª questão é "Medalhas" da OBI 2016, Segunda Fase, Nível Júnior, link da questão:
 
 `https://neps.academy/br/exercise/2` - (Python)
 
+A 6ª questão é "Drone" da OBI 2017, Primeira Fase, Nível Júnior, link da questão:
 
+`https://neps.academy/exercise/14` - (Python)
