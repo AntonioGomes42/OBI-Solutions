@@ -27,4 +27,4 @@ A 6ª questão é "Drone" da OBI 2017, Primeira Fase, Nível Júnior, link da qu
 
 A 7ª questão é "quasePrimo" da OBI 2016, Segunda Fase, Nível 2, link da questão:
 
-`https://neps.academy/exercise/10` - Solucionado em (JavaScript)
+`https://neps.academy/exercise/10` - Solucionado em (JavaScript(Node.js))
